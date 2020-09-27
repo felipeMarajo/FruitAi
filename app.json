@@ -1,0 +1,12 @@
+{
+  "name": "FruitAi",
+  "displayName": "FruitAi",
+  "expo": {
+    "name": "FruitAi",
+    "slug": "FruitAi",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
